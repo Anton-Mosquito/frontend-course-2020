@@ -899,7 +899,7 @@ Extra extra large	xxl	≥1400px */
     align-items: center;
     flex-direction: column;
     position: fixed;
-    width: 731px;
+    width: 100%;
   }
 
   .header .navigation .navigation__menu.active {

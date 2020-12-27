@@ -948,6 +948,7 @@ Extra extra large	xxl	≥1400px */
     align-content: space-evenly;
     justify-content: center;
     grid-template-columns: calc(300px + (442 - 300) * ((100vw - 320px) / (1600 - 320)));
+    width: 100%;
   }
 
   .wrapper .footer {
